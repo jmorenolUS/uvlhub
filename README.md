@@ -16,3 +16,7 @@ Repository of feature models in UVL format integrated with Zenodo and flamapy fo
 ## Official documentation
 
 You can consult the official documentation of the project at [docs.uvlhub.io](https://docs.uvlhub.io/)
+
+## Important
+
+This repo is not the official uvlhub.io repository. It's just a practice repo for the EGC labs at US.
